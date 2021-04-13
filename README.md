@@ -1,6 +1,7 @@
 ![](https://www.ciadeestagios.com.br/vagas/hospitalsiriolibanes/assets/hsl-ogimage.png)
 
 # 📦 Projeto Fora da Caixinha
+![](https://img.shields.io/badge/Men%C3%A7%C3%A3o%20honrosa-%E2%AD%90-blue)
 
 > By: [Caroline](), [Gisely](), [Thiago](),  e [Wanderley](https://github.com/Allizzo)
 
@@ -20,10 +21,24 @@ A partir disso desenvolvemos o **"Fora da caixinha"** fazendo a junção da lemb
 
 ## A Caixinha
 
-Quando a família recebe a caixa podemos ver que temos um lado com tutoriais pequenos sobre informações diversas voltado para os adultos daquela residência, outro com jogo voltado para idosos, outro com um jogo educativo voltado para as crianças passando informações sobre a pandemia e prevenção de forma simples e divertida.
+Cada lado da caixinha recebida junto a cesta básica vem com um conteúdo diferente, cada um expecifico para alguem da familia.
+
+Quando a família recebe a caixa podemos ver que temos um lado com tutoriais pequenos sobre informações diversas voltado para os adultos daquela residência
+
+![](https://github.com/giselygarcia/foradacaixinha/blob/feature-images/images/caixa-lado-response.jpg?raw=true)
+
+
+Um dos lados é voltado para Jovens e Idosos:
+
+![](https://github.com/giselygarcia/foradacaixinha/blob/feature-images/images/caixa-lado-olders.jpg?raw=true)
+
+
+E outro com um jogo educativo voltado para as crianças passando informações sobre a pandemia e prevenção de forma simples e divertida.
+
+![](https://github.com/giselygarcia/foradacaixinha/blob/feature-images/images/caixa-lado-kids.jpg?raw=true)
 
 ## Assistente Virtual
 
-## Mensão Onrrosa
+## Menção Honrosa
 
 ## Outros Projetos
