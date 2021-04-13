@@ -3,7 +3,7 @@
 # 📦 Projeto Fora da Caixinha
 ![](https://img.shields.io/badge/Men%C3%A7%C3%A3o%20honrosa-%E2%AD%90-blue)
 
-> By: [Caroline](), [Gisely](), [Thiago](),  e [Wanderley](https://github.com/Allizzo)
+> By: [Caroline](https://github.com/Cazitia), [Gisely](https://github.com/giselygarcia), [Thiago](),  e [Wanderley](https://github.com/Allizzo)
 
 **Fora da Caixinha** foi um projeto desenvolvido durante o Hackathon do Processo Seletivo do Programa de Estágio TECH no Hospital Sírio-Libanês.
 
